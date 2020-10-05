@@ -1,0 +1,47 @@
+.row p{
+    margin-top:6rem;
+}
+ 
+.ink{
+    margin: left;
+}
+#content1{
+    background-color: rgb(160, 159, 159); 
+    border:1px solid black;   
+}
+
+.col-sm-6{
+    margin-bottom: 2rem;
+ }
+#content2{
+    background-color: rgb(160, 159, 159);
+    border:1px solid black; 
+}
+#content3{
+    background-color:  rgb(160, 159, 159); 
+    border:1px solid black; 
+}   
+ #r1{
+    background-color:  rgb(231, 167, 167);
+    float:right;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    margin-right: -1.5rem;
+    border: 1px solid black;
+}
+ #r2{
+    background-color:  rgb(201, 86, 86);
+    float:right;
+    padding:1rem 2rem 1rem 2rem;
+    margin-bottom: 2rem;
+    margin-right: -1.5rem;
+    border: 1px solid black;
+}
+#r3{
+    background-color:  rgb(235, 235, 122);
+    float:right;
+    padding:1rem;
+    margin-bottom: 2rem;
+    margin-right: -1.5rem;
+    border: 1px solid black;
+}
